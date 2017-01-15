@@ -6,6 +6,12 @@ This sample application demonstrate how to create a desktop application using **
 For more information, see **electron-angular**:  https://github.com/HalfLegend/electron-angular
 
 ## Install
+
+Under folder *sample*
+```npm
+cd sample
+```
+
 #### Install dependencies.
 ```npm
 npm install
@@ -16,14 +22,12 @@ npm install
 npm install -g typescript
 ```
 
-Under folder *sample*
 ```npm
 tsc
 ```
 
 ### Run
 
-Under folder *sample*
 ```npm
 npm start
 ```
