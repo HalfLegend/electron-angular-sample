@@ -1,0 +1,19 @@
+{
+  "name": "myth.butler.electron",
+  "version": "1.0.0",
+  "description": "Butler tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "HalfLegend",
+  "repository": "ignored",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "typescript": "^2.0.3"
+  },
+  "dependencies": {
+    "elegular": "^0.0.8"
+  }
+}

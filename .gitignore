@@ -1,0 +1,6 @@
+/sample/node_modules
+*.js
+*.js.map
+.idea/
+*.log
+README.md
