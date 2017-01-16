@@ -7,10 +7,7 @@ For more information, see **electron-angular**:  https://github.com/HalfLegend/e
 
 ## Install
 
-Under folder *sample*
-```npm
-cd sample
-```
+Under each folder
 
 #### Install dependencies.
 ```npm
