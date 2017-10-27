@@ -4,3 +4,4 @@ node_modules
 .idea/
 *.log
 elegular-internal
+package-lock.json

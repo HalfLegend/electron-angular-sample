@@ -10,6 +10,6 @@
   "repository": "ignored",
   "license": "ISC",
   "dependencies": {
-    "electron-angular": "0.0.22"
+    "electron-angular": "0.0.28"
   }
 }
